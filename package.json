@@ -1,0 +1,12 @@
+{
+  "name": "markserv-mod-post",
+  "version": "1.0.0",
+  "description": "Render a blog post page",
+  "main": "mod/post.mod.js",
+  "template": "mod/post.tpl.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "f1lt3r",
+  "license": "GPL-3.0"
+}
