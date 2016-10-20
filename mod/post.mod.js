@@ -1,4 +1,1 @@
-module.exports = {
-  name: 'markserv-mod-posts'
-};
-
+module.exports = () => {};
